@@ -1,5 +1,9 @@
 /** @type {Record<string, {homepage?: string, license?: string, dependencies?: Array<string>}>} */
 export const info = {
+  'source.dogma': {
+    license: 'mit',
+    homepage: 'https://github.com/microsoft/AL'
+  },
   'source.al': {
     license: 'mit',
     homepage: 'https://github.com/microsoft/AL'
